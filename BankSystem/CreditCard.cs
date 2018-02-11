@@ -9,10 +9,10 @@ using System.Threading.Tasks;
     {
         double Creditline;
 
-        public CreditCard(double count, string id, string pwd, double money)
+        public CreditCard(double creditline, string id, string pwd, double money)
             : base(id, pwd, money)
         {
-            this.Creditline = count;
+            this.Creditline = creditline;
         }
 
         override public bool WithdrawMoney(double money)//可以透支10000元

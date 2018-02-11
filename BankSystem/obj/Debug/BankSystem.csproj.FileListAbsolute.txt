@@ -31,3 +31,10 @@ C:\Users\sjx\Desktop\作业三\BankSystem\obj\Debug\BankSystem.csprojResolveAsse
 C:\Users\sjx\Desktop\作业三\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
 C:\Users\sjx\Desktop\作业三\BankSystem\obj\Debug\BankSystem.exe
 C:\Users\sjx\Desktop\作业三\BankSystem\obj\Debug\BankSystem.pdb
+E:\新建文件夹 (2)\作业三\BankSystem\bin\Debug\BankSystem.exe.config
+E:\新建文件夹 (2)\作业三\BankSystem\bin\Debug\BankSystem.exe
+E:\新建文件夹 (2)\作业三\BankSystem\bin\Debug\BankSystem.pdb
+E:\新建文件夹 (2)\作业三\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\作业三\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (2)\作业三\BankSystem\obj\Debug\BankSystem.exe
+E:\新建文件夹 (2)\作业三\BankSystem\obj\Debug\BankSystem.pdb

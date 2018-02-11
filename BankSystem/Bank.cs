@@ -14,9 +14,9 @@ public class Bank {
 		return account;
 	}
 
-    public CreditCard OpenCreditCard(double count,string id, string pwd, double money)
+    public CreditCard OpenCreditCard(double creditline, string id, string pwd, double money)
     {
-        CreditCard creditCard = new CreditCard(count,id, pwd, money);
+        CreditCard creditCard = new CreditCard(creditline, id, pwd, money);
         creditCards.Add(creditCard);
 
         return creditCard;
